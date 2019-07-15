@@ -1,1 +1,2 @@
-console.log("Tareq");
+let v="Tareq";
+console.log(v);
