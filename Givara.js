@@ -1,2 +1,3 @@
 let firstName = 'Givara'
-let lastName = 'Mahfoud' 
+let lastName = 'Mahfoud'
+console.log(`${firstName} ${lastName}`)  
