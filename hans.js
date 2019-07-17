@@ -1,3 +1,3 @@
-var sleepy='hans';
+var hans='onTheWay';
 
-console.log(sleepy);
+console.log(hans);
