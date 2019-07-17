@@ -1,2 +1,2 @@
  const myName='zohir';
- console.log(myName +"2");
+ console.log(myName +"3");
