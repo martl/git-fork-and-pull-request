@@ -9,3 +9,6 @@ console.log(abwinken);
 
 const schoen = 'weil es so schön ist';
 console.log(schoen);
+
+const learn = 'so langsam sollte ich es gelernt haben'
+console.log(learn);
