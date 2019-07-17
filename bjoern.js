@@ -1,2 +1,2 @@
-let bjoern = 'Bjoern ist wieder da lol';
+let bjoern = 'bin da 3. Versuch';
 console.log(bjoern);
