@@ -1,3 +1,3 @@
 
-const JOSY = 'josy';
-console.log(JOSY);
+const Rosi = 'josy';
+console.log(Rosi);
