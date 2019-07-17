@@ -1,2 +1,3 @@
-var hans = 'hans';
-console.log(hans);
+var sleepy='hans';
+
+console.log(sleepy);
