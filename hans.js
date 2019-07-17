@@ -1,2 +1,2 @@
-var hans = null
+var hans = 'hans';
 console.log(hans);
