@@ -1,3 +1,3 @@
-var hans=`mal sehen, wie's jetzt geht!`;
+var hans=`so langsam geht's!`;
 
 console.log(hans);
