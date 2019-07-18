@@ -4,3 +4,5 @@ console.log(patrick);
 const git = 'gitHub';
 console.log(git);
 
+const uebung = 'Übung';
+console.log(uebung);    
