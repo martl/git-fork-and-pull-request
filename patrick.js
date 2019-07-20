@@ -6,3 +6,6 @@ console.log(git);
 
 const uebung = 'Übung';
 console.log(uebung);    
+
+const vacation = 'Urlaub';
+console.log(vacation);
