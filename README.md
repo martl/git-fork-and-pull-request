@@ -12,4 +12,4 @@
 
 6) Make a pull request back to me, so I can see your changes
 
-7) Finish! 
+7) Finish! LKJVJDVÖLFVLKMVEMLVFM
