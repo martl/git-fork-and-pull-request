@@ -4,7 +4,7 @@
 
 2) Clone that to your local machine
 
-3) Make a file called Name.js (in my case it would be Martina.js)
+3) Make a file called Julien (in my case it would be Julien.js)
 
 4) Follow the questions, for example make a variable with your name and print it to the console  (this will be longer with the real tests) 
 
